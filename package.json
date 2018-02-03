@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "hw bamazon",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joliveira89/bamazon.git"
+  },
+  "author": "Jeff Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joliveira89/bamazon/issues"
+  },
+  "homepage": "https://github.com/Joliveira89/bamazon#readme",
+  "dependencies": {
+    "cli-table2": "^0.2.0",
+    "inquirer": "^5.0.1",
+    "mysql": "^2.15.0"
+  }
+}
